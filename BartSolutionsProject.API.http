@@ -1,0 +1,6 @@
+@BartSolutionsProject.API_HostAddress = http://localhost:5170
+
+GET {{BartSolutionsProject.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
